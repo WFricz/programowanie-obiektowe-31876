@@ -78,5 +78,5 @@
 string[] miasta = {"Kraków", "Rzeszów", "Poznań", "Łódź", "Gdańsk"};
 foreach (string miasto in miasta)
 {
-    Console.WriteLine("Miasto: " + miasto);
+    Console.WriteLine("Miasto: " + miasto );
 }
